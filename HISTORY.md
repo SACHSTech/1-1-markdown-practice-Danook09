@@ -20,18 +20,18 @@ This extended drum section became the foundation for MCs to hype up the crowd.
 > “Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
 **Key Figures of the 1970s:**  
-1. Kool Herc – credited with extending the break. (video link: https://youtu.be/10C-Q3NIlzU)  
-2. Afrika Bambaataa – spread hip hop culture through the Universal Zulu Nation. (video link: https://youtu.be/9J3lwZjHenA)  
-3. Grandmaster Flash – innovated DJ techniques like scratching and cutting. (video link: https://youtu.be/PobrSpMwKk4)  
+1. [Kool Herc](https://youtu.be/10C-Q3NIlzU) – credited with extending the break.
+2. [Afrika Bambaataa](https://youtu.be/9J3lwZjHenA) – spread hip hop culture through the Universal Zulu Nation.
+3. [Grandmaster Flash](https://youtu.be/PobrSpMwKk4) – innovated DJ techniques like scratching and cutting.
 
 ## 3. The Old School Era (Early 1980s)  
 
 ![Run DMC](https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
-- Rapper’s Delight by the Sugarhill Gang (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. (video link: https://youtu.be/mcCK99wHrk0)  
-- [Run-DMC](https://youtu.be/mcCK99wHrk0) fused rock and rap, creating crossover hits. (video link: https://youtu.be/l-O5IHVhWj0)  
-- [LL Cool J](https://youtu.be/vimZj8HW0Kg) and [Beastie Boys](https://youtu.be/07Y0cy-nvAg) brought hip hop to MTV audiences. (links: https://youtu.be/vimZj8HW0Kg, https://youtu.be/07Y0cy-nvAg)  
+- [Rapper’s Delight](https://youtu.be/mcCK99wHrk0) by the Sugarhill Gang (1979) is widely recognized as the first recorded rap single to reach mainstream audiences.
+- [Run-DMC](https://youtu.be/mcCK99wHrk0) fused rock and rap, creating crossover hits.
+- [LL Cool J](https://youtu.be/vimZj8HW0Kg) and [Beastie Boys](https://youtu.be/07Y0cy-nvAg) brought hip hop to MTV audiences.
 
 ## 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
@@ -68,11 +68,11 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 ![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
-Region   | Key Artists            | Notable Albums  
-East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers  
-West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton  
-Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
-South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik  
+Region | Key Artists | Notable Albums  
+East Coast | [Nas](https://en.wikipedia.org/wiki/Nas), [Biggie](https://en.wikipedia.org/wiki/The_Notorious_B.I.G.), [Wu-Tang Clan](https://en.wikipedia.org/wiki/Wu-Tang_Clan) | [Illmatic](https://en.wikipedia.org/wiki/Illmatic), [Ready to Die](https://en.wikipedia.org/wiki/Ready_to_Die), [36 Chambers](https://en.wikipedia.org/wiki/Enter_the_Wu-Tang_(36_Chambers))
+West Coast | [Tupac](https://en.wikipedia.org/wiki/Tupac_Shakur), [N.W.A.](https://en.wikipedia.org/wiki/N.W.A), [Ice Cube](https://en.wikipedia.org/wiki/Ice_Cube)  | [All Eyez on Me](https://en.wikipedia.org/wiki/All_Eyez_on_Me), [Straight Outta Compton](https://en.wikipedia.org/wiki/Straight_Outta_Compton)  
+Midwest | [Common](https://en.wikipedia.org/wiki/Common_(rapper)), [Bone Thugs-N-Harmony](https://en.wikipedia.org/wiki/Bone_Thugs-n-Harmony) | [Resurrection](https://en.wikipedia.org/wiki/Resurrection_(Common_album)), [E. 1999 Eternal](https://en.wikipedia.org/wiki/E._1999_Eternal) 
+South | [Outkast](https://en.wikipedia.org/wiki/Outkast), [Geto Boys](https://en.wikipedia.org/wiki/Geto_Boys) | [Southernplayalisticadillacmuzik](https://en.wikipedia.org/wiki/Southernplayalisticadillacmuzik)
 
 ## 7. Transition to the 2000s  
 
