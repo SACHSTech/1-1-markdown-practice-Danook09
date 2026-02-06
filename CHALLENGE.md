@@ -1,34 +1,35 @@
-Tricky Examples
+# Tricky Examples
 Test your knowledge of Markdown syntax with these examples. Can you re-create them without looking anything up?
 
-Example 1
-Programming Languages
-Python
-Popular Frameworks
-Django
-Flask
-Notable Features
-Dynamic typing
-Huge ecosystem
-JavaScript
-Frontend
-React
-Vue
-Angular
-Backend
-Node.js
-Deno
+## Example 1
+### Programming Languages -Python
+- Popular Frameworks
+- Django
+- Flask
+### Notable Features
+- Dynamic typing
+- Huge ecosystem
+- JavaScript
+- Frontend
+- React
+- Vue
+- Angular
+- Backend
+- Node.js
+- Deno
+## Databases
+- Relational
+- PostgreSQL
+- MySQL
+- NoSQL
+- MongoDB
+- Redis
 
-Databases
-Relational
-PostgreSQL
-MySQL
-NoSQL
-MongoDB
-Redis
-
-Example 2
-This is a single paragraph sentence that should break softly with two spaces at the end of the previous line. Here’s the continuation of the same paragraph. Now this is a hard break (blank line above), which creates a brand new paragraph.
+## Example 2
+This is a single paragraph sentence that should break softly with two spaces at the end of the previous line. 
+Here’s the continuation of the same paragraph. 
+---
+Now this is a hard break (blank line above), which creates a brand new paragraph.
 
 Example 3
 A minimal Markdown logo in black and white
@@ -48,14 +49,14 @@ Production is formulaic
 And yet, within that, artists like *Kendrick Lamar* prove that innovation and depth are still alive.  
 
 Example 5
-Tool, Strengths, Weaknesses
-GitHub
-Easy collaboration, integrates CI/CD
-Requires knowledge of git
+## Tool, Strengths, Weaknesses
+**GitHub**
+- Easy collaboration, integrates CI/CD
+- Requires knowledge of git
 
-Markdown
-Lightweight, portable, human-readable
-Limited styling compared to HTML
+**Markdown**
+- Lightweight, portable, human-readable
+- Limited styling compared to HTML
 
 VS CodeExtensions, debugging, free
 Can feel heavy on low-end machines
